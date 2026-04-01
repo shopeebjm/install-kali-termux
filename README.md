@@ -1,6 +1,6 @@
 <h1 align="center"><u> 
 
-# Install Kali Linux Di Android </u></h1>
+# ~Install Kali Linux Di Android~ </u></h1>
 
 ![GUI VERSION ](https://raw.githubusercontent.com/thakur2309/install-kali-termux/refs/heads/main/IMG_20250418_085226.jpg)
 
