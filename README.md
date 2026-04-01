@@ -9,12 +9,12 @@
 # Kali NetHunter Installation in Termux
 - Repositori ini memungkinkan Anda untuk menginstal Kali NetHunter di Termux menggunakan skrip otomatis. Dirancang untuk pemula yang menginginkan lingkungan Kali Linux portabel di Android.
 
-## Requirements
+## Persyaratan
 
-- Android device (No root required)
-- Termux app (latest version from F-Droid)
-- Stable internet connection
-- Minimum 5GB free internal storage
+- Perangkat Android (Tidak memerlukan root)
+Aplikasi Termux (versi terbaru dari F-Droid)
+Koneksi internet yang stabil
+Ruang penyimpanan internal minimal 5GB.
 
 ## Features
 
