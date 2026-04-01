@@ -16,15 +16,15 @@ Aplikasi Termux (versi terbaru dari F-Droid)
 Koneksi internet yang stabil
 Ruang penyimpanan internal minimal 5GB.
 
-## Features
+## Fitur
 
-- One-click installation script
-- Installs all required dependencies
-- Auto error handling included
+- Skrip instalasi sekali klik
+- Menginstal semua dependensi yang dibutuhkan
+- Penanganan kesalahan otomatis disertakan
 
 ### Termux Full Install and Setup 
 ```
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/install-kali-termux.git && cd install-kali-termux && chmod +x install-kali.sh && ./install-kali.sh
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/shopeebjm/install-kali-termux.git && cd install-kali-termux && chmod +x install-kali.sh && ./install-kali.sh
 ```
 
 ### [TERMUX] Packege Install Comments
