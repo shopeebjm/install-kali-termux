@@ -7,8 +7,7 @@
 <h3 align="center"> Preview!</h3>
 
 # Kali NetHunter Installation in Termux
-
-This repository allows you to install **Kali NetHunter** in Termux using an automated script. It's designed for beginners who want a portable Kali Linux environment on Android.
+- Repositori ini memungkinkan Anda untuk menginstal Kali NetHunter di Termux menggunakan skrip otomatis. Dirancang untuk pemula yang menginginkan lingkungan Kali Linux portabel di Android.
 
 ## Requirements
 
