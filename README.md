@@ -36,7 +36,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/thakur2309/install-kali-termux.git
+git clone https://github.com/shopeebjm/install-kali-termux
 ```
 ```
 cd install-kali-termux
